@@ -90,7 +90,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.0.0)
   jeweler (~> 1.5.2)
-  rails (>= 3.0.3)
+  rails (~> 3.0.2)
   rcov
   rspec (~> 2.5.0)
   rspec-rails (~> 2.5.0)
