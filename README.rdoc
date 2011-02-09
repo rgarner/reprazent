@@ -1,6 +1,10 @@
 = reprazent
 
-Description goes here.
+A set of helpers for Rails 3 projects that provide assistance with generating common representations, including:
+
+* vCard
+* RDFa
+* developer-centric URL breadcrumbs for RESTful/Linked Data environments
 
 == Contributing to reprazent
  
